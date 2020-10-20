@@ -1,0 +1,4 @@
+[1015/160749.239:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bruno\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\355382b8-302e-4450-813a-883716418991: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/160911.958:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/161308.020:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bruno\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\53311b5e-9122-4478-b73c-8ee3e50003c0: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/164021.089:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bruno\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\1e7b4056-3029-4718-8014-a29c3af539b2: O sistema não pode encontrar o caminho especificado. (0x3)
